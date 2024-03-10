@@ -1,0 +1,23 @@
+body{
+    background-color: linear-gradient(to right #0f2027, #203a43, #2c5364);
+}
+.main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+#form{
+ margin-top: 100px;
+ border-radius: 10px;
+
+}
+.ip{
+    margin: 30px;
+}
+.error{
+    color: red;
+}
+label{
+    color: black;
+}
